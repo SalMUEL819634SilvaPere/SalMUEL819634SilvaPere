@@ -36,7 +36,7 @@
  ## Sistemas Operacionais
   
   <img align="center" alt="samuel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"> 
-  <img align="center" alt="samuel" height="50" width="40" src="https://raw.githubusercontent.com/SaMuElsilva94467PerEira/SaMuElsilva94467PerEira/776d499f6ae42e90b0568da945e1d8dd9487f0c0/assets/ubuntu-server-logo-.svg">
+  <img align="center" alt="samuel" height="50" width="40" src="https://raw.githubusercontent.com/SaMuElsilva94467PerEira/SaMuElsilva94467PerEira/178e639816ff62780fc564a3c11faf6106d6d59f/ubuntu-server-logo-.svg">
   <img align="center" alt="samuel" height="30" width="170" src="https://upload.wikimedia.org/wikipedia/tt/3/33/Windows_7_logo.svg">
   <img align="center" alt="samuel" height="30" width="120" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg">  
   <img align="center" alt="samuel" height="30" width="170" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg">
