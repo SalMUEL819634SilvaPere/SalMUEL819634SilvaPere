@@ -79,7 +79,7 @@
 
  <h1><a href="https://github.com/SaMuElsilva94467PerEira/Calculadora">Calculadora (Clique para ir no repositorio)</a></h1>
  
-![Captura de tela 2023-11-30 114145](https://github.com/SaMuElsilva94467PerEira/SaMuElsilva94467PerEira/assets/90639226/225c15c2-abd5-4988-aab7-ad58cf321138)
+https://private-user-images.githubusercontent.com/90639226/286966849-7200d645-1826-45c1-b004-1ebb1fb7c1c7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxNTMwMjMsIm5iZiI6MTcwNDE1MjcyMywicGF0aCI6Ii85MDYzOTIyNi8yODY5NjY4NDktNzIwMGQ2NDUtMTgyNi00NWMxLWIwMDQtMWViYjFmYjdjMWM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAxVDIzNDUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhNzRmNjQyNWJmY2FlYmIwYjgwNDA5M2IyMzNlZmFmOGVhMjg3NzU3MmEwYWQxYTk5OWNkYTA1YzhmNjM5NDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oGFrU9vwAKoaNn4Qyd1pbU6KQgeFs5YvDbTJ8VcJ0Ek
 
 
  <h1><a href="https://github.com/SaMuElsilva94467PerEira/shooping">Projeto Site Shopping (Clique para ir no repositorio)</a></h1>
