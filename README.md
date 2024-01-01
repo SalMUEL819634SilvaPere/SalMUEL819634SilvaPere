@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=SaMuElsilva94467PerEira&style=flat-square">
 
-- 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySQL, Python
+- 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySQL
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySQL
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
