@@ -1,4 +1,4 @@
-<h5>Olá</h5><img align="center" alt="samuel" height="50" width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> 
+<h1>Olá</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=063DA4&vCenter=true&width=600&height=70&lines=Eu+Sou+Samuel+Pereira+da+Silva;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 
