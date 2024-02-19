@@ -81,7 +81,8 @@
 
  <h1><a href="https://github.com/SalMUEL819634SilvaPere/Calculadora">Calculadora (Clique para ir no repositorio)</a></h1>
  
-![286966849-7200d645-1826-45c1-b004-1ebb1fb7c1c7](https://github.com/SalMUEL819634SilvaPere/assets/90639226/d9e4f8b4-3541-4eb1-8c2b-46ce99a9a3b7)
+
+![286966849-7200d645-1826-45c1-b004-1ebb1fb7c1c7](https://github.com/SalMUEL819634SilvaPere/SalMUEL819634SilvaPere/assets/90639226/a67e1e7e-482d-4fd2-b49d-6673efcb60a5)
 
 
 
